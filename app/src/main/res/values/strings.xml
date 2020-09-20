@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">JickbangCopy_20200920</string>
+    <string name="app_name">직방연습</string>
+    <string name="floor">층 수</string>
 </resources>
